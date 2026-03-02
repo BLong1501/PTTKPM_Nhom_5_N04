@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1046419452826",
+    "project_id": "dacs-ban-xe",
+    "storage_bucket": "dacs-ban-xe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046419452826:android:c7340b1a1d7b26948ec023",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046419452826-8pbu9dvqjnu4hr1p2rda2pm3kkahgc5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_app",
+            "certificate_hash": "8a1a4eec471e3c86a386b0cf67dc33087a24ab36"
+          }
+        },
+        {
+          "client_id": "1046419452826-vqpif2i0n4cfe0ote11b57fpudj8hoc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGtd09FNoHoKJMB-QG76yoiDBw0iLN0hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046419452826-vqpif2i0n4cfe0ote11b57fpudj8hoc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046419452826-b3eijd47n9tmf4clv8oi70qd3ao8294i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
